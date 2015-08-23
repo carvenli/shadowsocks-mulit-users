@@ -1,1 +1,1 @@
-# shadowsocks-mulit-users
+# shadowsocks-multi-users
